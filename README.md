@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Norrun
 - 👀 I’m interested in everything and nothing
-- 🌱 I’m currently learning game development/design
+- 🌱 I’m currently learning go.
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me: smoke signals X-P
 
