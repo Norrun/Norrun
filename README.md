@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Norrun
 - 👀 I’m interested in everything and nothing
-- 🌱 I’m currently learning go.
-- 💞️ I’m looking to collaborate on game development
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to make cool shit.
 - 📫 How to reach me: smoke signals X-P
 
 <!---
