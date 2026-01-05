@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Norrun
 - 👀 I’m interested in everything and nothing
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to make cool shit.
+- 🌱 I’m currently learning [backend](https://www.boot.dev/u/impishletter69).
+- 💞️ I’m looking to make the digital world a better place.
 - 📫 How to reach me: smoke signals X-P
 
 <!---
